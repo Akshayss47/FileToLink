@@ -11,6 +11,8 @@
 
 Press the below button to deploy to Heroku
 
+[![Create](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akshayss47/FileToLink)
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
